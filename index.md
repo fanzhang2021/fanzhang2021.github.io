@@ -1,6 +1,6 @@
-Hello and welcome to this blog. 
+## welcome to this blog. 
 
-## fanzhang
+first, take a look at this picture
 
 Southern Wutai Mountain
 ![Image description](images/xian_nanwutan.jpg)
